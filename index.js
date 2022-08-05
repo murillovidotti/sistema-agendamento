@@ -25,7 +25,6 @@ app.use(express.json());
 
 // Liberar acesso para fazer requisições
 app.use((req, res, next) => {
-  //console.log("Acessou o Middleware!");
   res.header("Access-Control-Allow-Origin", "*");
   res.header("Access-Control-Allow-Methods", "GET,PUT,POST,DELETE");
   app.use(cors());
