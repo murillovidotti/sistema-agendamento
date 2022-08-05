@@ -2,7 +2,7 @@
 
 ![HOME](https://user-images.githubusercontent.com/78566330/182992611-fc52e9ea-22fd-495c-9c63-abf639c76b58.png)
 
-![AGENDAMENTOS](https://user-images.githubusercontent.com/78566330/182992618-8d2e2a40-a857-433b-a691-0951af7588ec.png)
+![AGENDAMENTOS](https://user-images.githubusercontent.com/78566330/182993244-1bf3c95b-40e5-495e-b664-30fe3967f0a6.png)
 
 
 ## Tecnologias Usadas
