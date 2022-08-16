@@ -45,7 +45,7 @@
 ### Obervacao
 
 - Criei uma pagina para agendar os clientes e outra para consultar os agendamentos, contrui uma API que possui conexao direta com o MongoDB para guardar os dados do agendamento e utilizei o Axios para realizar as requisicoes da API (POST, GET, DELETE E PATCH)
-- Nao consegui realizar a contrucao de todas funcionalidades
+- Nao consegui realizar a construcao de todas funcionalidades
 
 - Instalar o `npm install` ou `yarn install` dentro da pasta (sistema-agendamento) e depois na pasta (sistema)
 - Para fazer a ligacao com o Front-end e o Back-end
